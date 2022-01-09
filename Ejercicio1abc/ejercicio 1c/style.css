@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    }
+    .main {
+    margin: 5px;
+    }
+    .nav{
+        position: fixed;
+        background-color:chartreuse;
+        top:0;
+    }
+    .box {
+    width: 23%;
+    height: 100px;
+    padding: 5px;
+    display:inline-block;
+    text-align: center;
+    }
+    .box1{
+        
+    }
+    .box2{
+        
+    }
+    .box3{
+      
+    }
+    .box4{
+      
+    }
+    .position{
+        position:relative;
+    }
+    .mover{
+        left:300px;
+    }
+    .img{
+        width: 100%;
+    }
+    .parrafo{
+        text-align: start;
+    }
+    

@@ -1,0 +1,8 @@
+.abajo{
+    position: absolute;
+}
+.arriba{
+    position: relative;
+    left:15rem;
+    top:18rem;
+}

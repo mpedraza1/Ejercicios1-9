@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    margin: 1px;
+}
+   nav{
+    background-color:#252850;
+    width: 80%;
+    margin: 0 10%;
+    padding: 1rem;
+    color:seashell;
+   }
+   .menu{
+    background-color: #CCCCDA;
+    width: 30%;
+    margin: 0 10%;
+    padding: 3rem;
+    float:left;
+    position: absolute;
+   }
+   .subtitulo{
+    width: 50%;
+    height:13rem;
+    margin: 0 10%;
+    padding: 3rem;
+    float:right;
+   }
+   footer{
+        background-color: #9c9c9c;
+        width: 80%;
+        margin: 0 10%;
+        padding: 1em;
+        clear:both;
+        position: relative;
+        text-align: center;
+   }
+
+
+
